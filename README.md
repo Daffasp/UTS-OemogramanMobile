@@ -15,7 +15,8 @@ FOOTBALL NEWS
 
 FOOTBALL NEWS adalah Aplikasi berita bola yang membahas dunia sepak bola.
 
-STORY BOARD
+
+STORY BOARD APLIKASI BERITA SEPAK BOLA
 
 ![image](https://github.com/user-attachments/assets/27da141d-08b5-4547-a95c-80fd79323c08)
 
