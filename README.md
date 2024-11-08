@@ -21,3 +21,9 @@ STORY BOARD APLIKASI BERITA SEPAK BOLA
 ![image](https://github.com/user-attachments/assets/27da141d-08b5-4547-a95c-80fd79323c08)
 
 
+MOCK UP APLIKASI BERITA SEPAK BOLA
+
+![image](https://github.com/user-attachments/assets/85041c59-118f-4573-b04c-b57ce756392d)
+
+
+
